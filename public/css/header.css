@@ -1,0 +1,238 @@
+.navbar-inverse{
+	background-color: #F1F1F1;
+	height: 60px;
+	border: white;
+}
+.img-logo{
+	background: none;
+	width:150px;
+	height:45px;
+	text-align: center;
+	float: left;
+	margin-top: -10px;
+	margin-left: 10px;
+}
+.navbar-nav{
+	margin-top: 5px;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: black;
+    font-weight: bold;
+}
+li#header{
+	margin-left: -10px;
+	color: black;
+}
+li#header-active:hover{
+	color: black;
+	font-weight: bold;
+}
+li#header:hover{
+	color: black;
+	font-weight: bold;
+}
+
+.fa-search{
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: -15px;
+	color: #00b9f2;
+}
+.fa-search:hover{
+	color: orange;
+}
+.fa-bell,.fa-user-plus,.fa-sign-in,.fa-comments-o{
+	color: #666;
+	font-size: 16px;
+} 
+.fa-bell:hover{
+	color: orange;
+} 
+.fa-user-plus:hover{
+	color: orange;
+} 
+.fa-sign-in:hover{
+	color: orange;
+} 
+.fa-comments-o:hover{
+	color: orange;
+} 
+.navbar-right:hover{
+	color: orange;
+}
+
+.nhatuyendung{
+	background-color: #00648f;
+	height: 60px;
+	width: 200px;
+	margin-top: -5px;
+}
+p#nhatuyendung{
+	text-align: left;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+}
+p#noidungtuyendung{
+	text-align: left;
+	font-size: 11px;
+	margin-top: -10px;
+	color: #00b9f2;
+}
+
+/* Phan footer*/
+/* /Phần footer */
+#footer {
+    background: #dbdbdb;
+    margin-top: 60px;
+}
+.site-footer{
+    background-color: #dbdbdb;
+    color: #fff;
+    margin-top: 25px;
+    padding-top: 20px;
+}
+.bottom-footer{
+    border-top: 1px solid #b2b2b2;
+    margin-top: 10px;
+    padding-top: 10px;
+    color: black;
+    text-align: center;
+}
+
+.footer-list{
+	list-style: none;
+	margin-left: -50px;
+
+}
+a#list-footer{
+	text-decoration: none;
+	color: black;
+	text-align: left;
+	font-size: 14px;
+}
+a#list-footer:hover{
+	color: orange;
+}
+.footer-title-col-1{
+	display: block;
+    width: 100%;
+    color: black;
+    margin-left: -10px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+.diekhoan{
+	margin-left: -50px;
+}
+.congcu{
+	margin-left: 50px;
+}
+i.icon_footer{
+    height: 40px;
+    width: 40px;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 25px;
+    max-height: 100%;
+    max-width: 100%;
+}
+.img-footer{
+	height: 40px;
+}
+
+
+/* Modal-Login*/
+.modal-lg-login{
+	height: auto;
+}
+p#title-modal{
+	text-align: center;
+	font-size: 25px;
+}
+.fa-facebook{
+	color: blue;
+}
+.fa-google{
+	color: #E94000;
+}
+.btn-facebook, .btn-google{
+	height: 45px;
+	font-weight: bold;
+	font-size: 15px;
+}
+p#login-title{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+}
+.form-login{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.forgot-pass{
+	padding-bottom: 20px;
+	float: right;
+	color: #00b9f2;
+}
+.btn-login{
+	height: 45px;
+	width: 480px;
+	text-align: center;
+}
+p#txt-signup{
+	text-align: center;
+}
+.txt-sign-up{
+	text-align: center;
+	font-weight: bold;
+	color: #00b9f2;
+
+}
+.checkbox-signup{
+	font-weight: normal;
+	padding-bottom: 20px;
+}
+p#txt-submit-signup{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 12px;
+}
+/*header-user*/
+.btn-user{
+	margin-top: 8px;
+	background-color: #F1F1F1;
+}
+.navbar-user-header{
+	margin-left: 300px;
+}
+.dropdown-user{
+	width: 300px;
+}
+.btn-resume{
+	width: 150px;
+	height: 40px;
+	background-color: orange;
+	text-align: center;
+	font-weight: bold;
+	font-size: 17px;
+	margin-left: 75px;
+	margin-top: 20px;
+}
+.btn-change-user{
+	border: none;
+	background-color: white;
+	width: 298px;
+	height: 50px;
+	text-align: left;
+	font-size: 16px;
+	color: black;
+}
+.btn-change-user:hover{
+	background-color:#D6DADC;
+}

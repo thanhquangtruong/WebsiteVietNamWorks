@@ -1,0 +1,134 @@
+/* ThongTinTaiKhoan */
+p#taikhoan{
+	font-size: 25px;
+	padding-top: 30px;
+}
+hr#hr{
+	margin-top: -10px;
+	border-style: dotted;
+	border-width: 1px;
+}
+.body-thongtinuser{
+	border: 1px solid #00adef;
+	margin-bottom: 30px;
+}
+.title-ttuser{
+	background-color: #00adef;
+	color: white;
+	font-weight: bold;
+	text-align: left;
+	height: 30px;
+}
+p#update-user{
+	font-size: 16px;
+	padding-top: 5px;
+}
+.body-ttuser{
+	background-color: white;
+}
+p#ttcnhan{
+	font-weight: bold;
+	color: orange;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.title-form-user{
+	font-weight: normal;
+	padding-left: 60px;
+}.btn-save-ttuser{
+	margin-left: 400px;
+	width: 100px;
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 16px;
+}
+/* Ho so cua toi */
+.job-hobby{
+	background-color: #eee;
+	padding-top: 30px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+}
+.img-job-profile{
+	width: 120%;
+	height: 120%;
+	padding-top: 20px;
+}
+.list-job-profile{
+	background-color: white;
+	padding-left: 25px;
+	margin-left: 10px;
+	width:400px;
+	margin-right:10px;
+	padding-bottom: 20px;
+	height: 100px;
+	margin-top: 20px;
+}
+a#name-job-profile{
+	font-weight: bold;
+	color: black;
+	text-decoration: 
+	none;
+	font-size: 18px;
+}
+a#name-job-profile:hover{
+	color: orange;
+}
+.infomation-profile{
+	height: 100px;
+	margin-top: -20px;
+	background-color: white;
+	margin-left: 35px;
+	margin-right: 50px;
+	margin-bottom: 40px;
+	
+}
+p#txt-infomation-profile{
+	padding-left: 40px;
+	font-size: 16px;
+	padding-top: 40px;
+}
+.title-profile{
+	height: 40px;background-color: #f5f5f5;font-weight: bold;border-top: 1px solid black;text-align:center;padding-top: 10px;
+}
+a#add-info-profile{
+	text-decoration: none;
+	color: black;
+}
+a#add-info-profile:hover{
+	text-decoration: none;
+	color: orange;
+	background-color: #f5f5f5;
+}
+a#nhatuyendung-view-profile{
+	color: black;
+	text-decoration: none;
+}
+a#nhatuyendung-view-profile:hover{
+	color: black;
+	text-decoration: none;
+}
+a#tool-tip{
+	color: black;
+	text-decoration: none;
+}
+a#nhatuyendung-view-appli{
+	float: right;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	width: 100px;
+	text-align: center;
+}
+.title-personal{
+	height: 40px;
+	background-color: #eee;
+	margin-left: -20px;
+	margin-right: -15px;
+}
+.add-language{
+	margin-top: 5px;
+	font-size: 14px;
+	font-weight: bold;
+}

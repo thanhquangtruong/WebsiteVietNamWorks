@@ -1,0 +1,214 @@
+.nav-body-1{
+color: white;background-color: #337ab7;height: 50px;height: 60px
+}
+a#vechungtoi-home{
+	height: 60px;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+}
+a#vechungtoi-home:hover{
+	background-color: #00b9f2;}
+
+	.information-company{
+	height: 110px;
+	border: 1px solid #00b9f2;
+}
+.img-logo-banner{
+	padding-top: 15px;
+	width: 75%;
+	height: 75%;
+	float: right;
+}
+.btn-view-fb-lk:hover{
+	background-color: #337ab7;
+}
+.btn-theodoi{
+	width: 150px;
+	height: 40px;
+	background-color: #00b9f2;
+	color: white;
+	margin-top: 35px;
+	margin-left: 70px;
+	font-weight: bold;
+}
+.btn-theodoi:hover{
+	background-color: #00b9f2;
+	color: white;
+}
+.body-banner-company{
+	background-color: #eee;
+}
+.job-many{
+	margin-top: 50px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.image-office{
+	padding-top: 40px;
+	height: 250px;
+	width:360px;
+	margin-right: 20px;
+}
+.office-image{
+	margin-left: -10px;
+}
+.image-office-1{
+	height: 230px;
+	width: 360px;
+	margin-top: 25px;
+}
+.body-store{
+	border-top: 2px solid #00b9f2;
+	text-align: left;
+	padding-bottom: 40px;
+	background-color: white;margin-left: -90px;margin-top: 60px;margin-right: -90px;
+}
+.phuongtien{
+	border-top: 2px solid #00b9f2;
+	text-align: left;
+	padding-bottom: 40px;
+	background-color: white;margin-left: -90px;margin-top: 60px;margin-right: -90px;
+}
+.img-phuongtien{
+	margin-top: 30px;
+	margin-left: 30px;
+	height: 90%;
+	width: 90%;
+}
+p#txt-content-phuongtien{
+	text-align: left;margin-left: -20px;margin-top:0px;font-size: 17px;margin-right: 40px;font-size: 18px;
+}
+li#list-content-phuongtien{
+	text-align: left;margin-top:0px;font-size: 17px;margin-right: 40px;font-size: 18px;
+
+}
+p#list-content-phuongtien{
+	text-align: left;margin-top:0px;font-size: 17px;margin-right: 40px;font-size: 18px;
+}.body-list-phuongtien{
+	margin-left: 0px;
+	background-color: #eee;
+	border-top: 2px solid #00b9f2;
+	margin-top: 40px;
+	margin-right: 0px;
+	height: 800px;
+
+}
+.list-phuongtien{
+	
+}
+.title-list-phuongtien{
+	font-size: 18px; color:#00b9f2;font-weight: bold;text-align: center;margin-bottom: 30px;
+}
+p#txt-list-phuongtien{
+	text-align: left;font-size: 17px;margin-right: 20px;font-size: 18px;margin-left: 20px;margin-top: 0px;
+}
+.people-1{
+	margin-left: -100px;
+	margin-right: -100px;
+	height: 430px;
+	margin-top: 90px;
+	background-color:#f9f9f9;
+}
+.people-2{
+	margin-left: -100px;
+	margin-right: -100px;
+	height: 430px;
+	margin-top: 30px;
+	background-color:#f9f9f9;
+}
+.img-people{
+	padding-top: 20px;
+	padding-left: 25px;
+	height: 100%;
+	width: 100%;
+}
+p#title-people{
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+}
+p#des-people{
+	font-style: italic;
+	padding-right: 30px;
+	text-align: left;
+	margin-top: 30px;
+	font-size: 16px;
+}
+.img-people-2{
+	padding-top: 20px;
+	margin-left: 60px;
+	height: 90%;
+	width: 90%;
+}
+p#title-people-2{
+	font-size: 22px;
+	font-weight: bold;
+	margin-left: 40px;
+	text-align: left;
+}
+p#des-people-2{
+	font-style: italic;
+	margin-left: 40px;
+	text-align: left;
+	margin-top: 30px;
+	font-size: 16px;
+}
+.img-phucloi{
+	margin-left: 40px;
+	padding-bottom: 30px;
+}
+
+
+.list-congviec{
+	margin-right: -100px;
+	margin-left: -100px;
+}
+p#txt-list-cv{
+	font-weight: bold;
+	text-align: left;
+	color: #00b9f2;
+	text-decoration: underline;
+	font-size: 20px; 
+	margin-left: 40px;
+	padding-top: 60px;
+}
+ul#listjobs{
+	list-style: none;
+}
+a#txt-name-job{
+	text-align: left;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+.btn-details{
+	height: 45px;
+	float: right;
+	margin-right:100px;
+	width: 150px;
+	font-weight: bold;
+	font-size: 18px;
+	border: 1px solid #d6DADC;
+}
+.btn-details:hover{
+	background-color: #00b9f2;
+}
+.icon-name-job{
+	margin-top: 10px;
+}
+.btn-details-more{
+	height: 45px;
+	margin-left: 500px;
+	margin-right:100px;
+	width: 150px;
+	font-weight: bold;
+	font-size: 18px;
+	border: 1px solid #d6DADC;
+}
+.many-job{
+	margin-left: 350px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
